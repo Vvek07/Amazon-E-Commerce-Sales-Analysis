@@ -51,7 +51,7 @@ The `objective_tasks.sql` file demonstrates advanced SQL problem-solving, includ
 
 ## 📊 Power BI Dashboard Insights
 The Power BI report provides a deep dive into the business metrics:
-- **Sales Analysis:** Tracking **$107.24M** in total revenue across **112.99K** orders, segmented by year and customer loyalty tiers.
+- **Sales Analysis:** Tracking **$107.24M** in total revenue across **112.99K** orders, segmented by year and order value tiers (Bronze, Silver, Gold, Platinum).
 - **Product Performance:** Analyzing average sale prices and total revenue across categories like Electronics, Phones & Tablets, and Fashion.
 - **Logistics & Delivery:** Monitoring average delivery days (9.41 days overall) and comparing shipping fees across different delivery types.
 
